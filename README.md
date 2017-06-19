@@ -1,6 +1,6 @@
 # Philips
 
-Node module for controlling Philips Hue lights
+Node module for controlling Philips Hue lights (modified for Larissa)
 
 ## Installation
 
