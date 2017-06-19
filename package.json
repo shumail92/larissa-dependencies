@@ -1,0 +1,66 @@
+{
+  "_from": "github:svrooij/node-hue-util#c0c116b794e2de00bb629cdf95bf5eb5bdd17a88",
+  "_id": "hue-util@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-TpVFQzIugTY28Pu9q3+CSEyX2hs=",
+  "_location": "/hue-util",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "hue-util@github:svrooij/node-hue-util#c0c116b794e2de00bb629cdf95bf5eb5bdd17a88",
+    "name": "hue-util",
+    "escapedName": "hue-util",
+    "rawSpec": "github:svrooij/node-hue-util#c0c116b794e2de00bb629cdf95bf5eb5bdd17a88",
+    "saveSpec": "github:svrooij/node-hue-util#c0c116b794e2de00bb629cdf95bf5eb5bdd17a88",
+    "fetchSpec": null,
+    "gitCommittish": "c0c116b794e2de00bb629cdf95bf5eb5bdd17a88"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:svrooij/node-hue-util#c0c116b794e2de00bb629cdf95bf5eb5bdd17a88",
+  "_spec": "hue-util@github:svrooij/node-hue-util#c0c116b794e2de00bb629cdf95bf5eb5bdd17a88",
+  "_where": "/Users/naumgjorgjeski/ios17sieitp-server/hue2mqtt",
+  "author": "",
+  "browser": "index.coffee",
+  "browserify": {
+    "transform": [
+      "coffeeify"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/octoblu/node-hue-util/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "debug": "^2.2.0",
+    "lodash": "^4.14.1",
+    "request": "^2.60.0",
+    "tinycolor2": "^1.1.2"
+  },
+  "deprecated": false,
+  "description": "Node module for controlling Philips Hue lights",
+  "devDependencies": {
+    "browserify": "^11.1.0",
+    "coffeeify": "^1.1.0"
+  },
+  "homepage": "https://github.com/octoblu/node-hue-util#readme",
+  "keywords": [
+    "Phillips",
+    "Hue",
+    "Lights",
+    "Octoblu"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hue-util",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/node-hue-util.git"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "version": "2.2.0"
+}
